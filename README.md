@@ -12,6 +12,8 @@
 ##### [YBImageBrowser 重构心得：如何优化架构、性能、内存？](https://www.jianshu.com/p/ef53d0094437)
 ##### [避免 iOS 组件依赖冲突的小技巧](https://www.jianshu.com/p/0e3283275300)
 
+## 2024年更新
+1、居然不支持显示RAW图片，改他；
 
 ## 注意事项
 
