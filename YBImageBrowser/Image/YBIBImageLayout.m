@@ -16,7 +16,7 @@
     self = [super init];
     if (self) {
         _verticalFillType = YBIBImageFillTypeCompletely;
-        _horizontalFillType = YBIBImageFillTypeFullWidth;
+        _horizontalFillType = YBIBImageFillTypeCompletely;
         _zoomScaleSurplus = 1.5;
     }
     return self;
