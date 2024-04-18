@@ -514,7 +514,7 @@
 - (UIImageView *)tailoringImageView {
     if (!_tailoringImageView) {
         _tailoringImageView = [UIImageView new];
-        _tailoringImageView.contentMode = UIViewContentModeScaleAspectFit;
+        _tailoringImageView.contentMode = UIViewContentModeScaleAspectFill;
     }
     return _tailoringImageView;
 }
